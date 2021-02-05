@@ -1,18 +1,14 @@
-.carousel {
-    margin-left: auto;
-    margin-right: auto;
-    width:1280px;
-    height:720;
-}
-
 .row {
-    margin-right: auto;
+    justify-content: end;
+    float: right;
 }
 
-.card{
-    position: relative;
-    margin-bottom: 20px;
-    text-align: center;
+.card {
+    justify-content: end;
+    float: right;
 }
+
+
+
 
 
