@@ -24,20 +24,10 @@
             </div>
         </div>
     </div>
-    <nav class="navbar navbar-light col-6" style="background-color: #dadadb;">
-      <nav class="navbar navbar-expand-lg navbar-light">
-        <div class="container-fluid">
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                <div class="navbar-nav">
-                 <a class="nav-link active" aria-current="page" href="./index.html">Homepagina</a>
-            </div>
-          </div>
-        </div>
-      </nav>
-    </nav>
+    
+    <div class="row">
+        <a href="./index.html" class="btn btn-secondary btn-block btn-lg col-6 col text-center">Terug naar homepagina</a>
+    </div>
         <div class="row">
             <div class="col-6">
               <form action= "./create.php" method= "post">

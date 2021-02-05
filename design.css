@@ -16,3 +16,9 @@
 .container {
     justify-content: center;
 }
+
+.btn-block {
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
